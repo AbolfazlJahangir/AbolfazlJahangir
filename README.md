@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-![آیکون Python](https://img.icons8.com/color/48/000000/python.png)
+(https://img.icons8.com/color/48/000000/python.png)
 
 I'm Abolfazl, a passionate software developer from Iran(Mashhad). I love writing code and building projects that make a difference. My areas of interest include web development, machine learning, and open-source software.
 
