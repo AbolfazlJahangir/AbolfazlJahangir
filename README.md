@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-![آیکون Python](https://img.icons8.com/color/48/000000/python.png)     ![آیکون Django](https://img.icons8.com/color/48/000000/django.png)     ![آیکون HTML](https://img.icons8.com/color/48/000000/html-5.png)     ![آیکون CSS](https://img.icons8.com/color/48/000000/css3.png)     ![آیکون Javascript](https://img.icons8.com/color/48/000000/javascript.png)     ![آیکون Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+![آیکون Python](https://img.icons8.com/color/48/000000/python.png)     ![آیکون Django](https://img.icons8.com/color/48/000000/django.png)     ![آیکون Javascript](https://img.icons8.com/color/48/000000/javascript.png)     ![آیکون HTML](https://img.icons8.com/color/48/000000/html-5.png)     ![آیکون CSS](https://img.icons8.com/color/48/000000/css3.png)     ![آیکون Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
 
 I'm Abolfazl, a passionate software developer from Iran(Mashhad). I love writing code and building projects that make a difference. My areas of interest include web development, machine learning, and open-source software.
 
