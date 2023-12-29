@@ -8,7 +8,7 @@ I'm Abolfazl, a passionate software developer from Iran(Mashhad). I love writing
 
 👨‍💻 In my free time, I contribute to open-source projects and work on personal coding projects.
 
-📫 How to reach me: jahangirabolfazl6@gmail | https://www.linkedin.com/in/abolfazl-jahangir-a69109242
+📫 How to reach me: jahangirabolfazl6@gmail.com | https://www.linkedin.com/in/abolfazl-jahangir-a69109242
 
 🔭 I’m currently working on improving my algorithmic thinking through practical projects and learning exercises, aiming to Enhancing mastery and problem-solving abilities with advanced algorithms.
 
